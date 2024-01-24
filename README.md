@@ -3,7 +3,7 @@ Case study from Google Data Analytics on Coursera
 
 BACKGROUND: The analysis is based on the first case study of the Google Data Analytics Certificate. The aim of the analysis is to understand how casual riders and annual members use Cyclistic bikes differently. Analyzing the behaviors between the two would create insights on how to design a new marketing strategy to convert casual riders into annual members.
 
-The data will be cleaned and analyzed using SQL and Tableau and will follow Google’s six-step process of processing data: ask, prepare, clean and process, analyze, share, and act.
+The data will be cleaned and analyzed using SQL, Python (Pandas) and Power BI and will follow Google’s six-step process of processing data: ask, prepare, clean and process, analyze, share, and act.
 
 # Ask
 
