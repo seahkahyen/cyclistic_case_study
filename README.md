@@ -23,7 +23,7 @@ To ensure data integrity in both tables created respectively using SQL and Pytho
 
 I also included data that have a valid time length (more than 1 minute and less than 24 hours)
 
-For easier analysis of my data, I appended the tables with new columns; Start time, Ride Length, Day of the Week, Day, Month and Year per Ride ID
+For easier analysis of my data, I appended the tables with new columns; Start time, Ride Length, Day of the Week, Day, Month and Year, each columns per Ride ID
 
 # Analyze
 
